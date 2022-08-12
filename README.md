@@ -2,6 +2,7 @@
 
 A community starter template for the [Capri](https://capri.build) static site generator featuring:
 
+- [React](https://reactjs.org/) 
 - JSX instead of TSX
 - [Tailwind CSS](https://tailwindcss.com/)
 - a custom directory structure
@@ -22,4 +23,5 @@ npm init capri my-capri-site -- -e mttmzr/capri-starter-react
 
 - [Capri](https://capri.build)
 - [Capri on GitHub](https://github.com/capri-js/capri)
+- [React](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
