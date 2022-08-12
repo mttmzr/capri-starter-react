@@ -7,7 +7,7 @@ A community starter template for the [Capri](https://capri.build) static site ge
 - [Tailwind CSS](https://tailwindcss.com/)
 - a custom directory structure
 
-This template is heavily based on the original react template by Capri.
+This template is heavily based on the original React template by Capri.
 
 ## Usage
 
